@@ -48,7 +48,6 @@ This is an overall explanation of what will be doing for the prediction.
 
 The report added above will give an in depth explanation of the entire process.
 
-Thank you!
 
 #### CONTRIBUTORS
 Prasham Sheth | Manas Dresswala | Shreyas Jadhav | Anjani Prasad 
