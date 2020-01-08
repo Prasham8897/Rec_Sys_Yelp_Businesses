@@ -1,6 +1,6 @@
 # Yelp Data Recommendation System
 
-1. Introduction
+## 1. Introduction
 
 In today’s world, where data has become the new oil, recommendation systems has taken a huge leap in terms of research and real time implementation. 
 
@@ -8,7 +8,7 @@ With the growing technology industry, the amount of competition between these co
 
 In this task, we try and build a recommendation system for our users on Yelp using the Yelp Dataset from the Yelp Challenge 2019. 
 
-2. Business Rule
+## 2. Business Rule
 
 Let's take a minute here to understand how we are going ahead with our recommendation task and what business rules are we applying here. 
 The main task here is to predict the last rating that the user gave to a particular business. To go about predicting the rating, we are using the previous user data that has been given to us. We are not only using the ratings that the user gave to multiple businesses but also using the other features about users and businesses given to us. 
@@ -20,7 +20,7 @@ Now, if the user has rated a business with a rating greater than or equal to 2.5
 
 In the recommendation task we are recommending businesses that are similar to the last business the user has rated of the user liked the last business he rated, otherwise we are giving him top 5 recommendations through ALS based model.
 
-3. Data Sampling
+## 3. Data Sampling
 
 Before we jump into the implementation of these systems, we would like to discuss how we have sampled our data. 
 We have mentioned most of our sampling in the data analysis section, but here we will explain the different samples used in our models. 
@@ -28,7 +28,7 @@ We had to take three different subsets in our case as each of the model had thei
 
 ![Data Sampling](images/DataSampling.png)
 
-4. Recommendation Systems
+## 4. Recommendation Systems
 
 Now let's talk about how we are predicting the user’s last rating. As mentioned above we are using the following information given to us to go about the prediction task - 
 
@@ -49,3 +49,6 @@ This is an overall explanation of what will be doing for the prediction.
 The report added above will give an in depth explanation of the entire process.
 
 Thank you!
+
+#### CONTRIBUTORS
+Prasham Sheth | Manas Dresswala | Shreyas Jadhav | Anjani Prasad 
