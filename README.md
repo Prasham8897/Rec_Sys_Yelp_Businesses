@@ -46,5 +46,6 @@ Now let's talk about how we are predicting the user’s last rating. As mentione
 
 This is an overall explanation of what will be doing for the prediction.
 
-The report added above will give an in depth explanation of the entire process. 
+The report added above will give an in depth explanation of the entire process.
+
 Thank you!
